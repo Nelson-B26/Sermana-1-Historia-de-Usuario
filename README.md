@@ -1,4 +1,4 @@
-#RegistroDeVentasSemana1
+# RegistroDeVentasSemana1
 Este sistema está orientado a registrar los artículos vendidos y sus precios, ordenándolos por cantidad y el costo total de cada venta.
 
 # Características
